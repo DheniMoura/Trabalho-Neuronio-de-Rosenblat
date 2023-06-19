@@ -20,7 +20,16 @@ Por se tratar de atividade avaliativa a interpretação é parte da avaliação.
     
 ### Resultado obtido
 
+*Neuronio
+![image](https://github.com/DheniMoura/Trabalho-Neuronio-de-Rosenblat/assets/91914066/ce3d733a-b24a-462b-bb7c-9bc3fb26f296)
+
+*Evolução da energia de erro durante o treinamento
+![image](https://github.com/DheniMoura/Trabalho-Neuronio-de-Rosenblat/assets/91914066/b7f63c62-afdb-4bfd-a2f6-08d72eb210ab)
+
+
 A realização e entrega deste trabalho foi bem sucedida, resultando em nota 100 (de 100), conforme pode ser visto no *print* abaixo.
 ![image](https://user-images.githubusercontent.com/91914066/210386076-79a57706-fb55-480c-bf4a-80fefe28d49e.png)
 
 **Para ter acesso ao conteúdo da [planilha](https://github.com/DheniMoura/Trabalho-Neuronio-de-Rosenblat/blob/main/Trabalho%20Neuronio%20de%20Rosenblat%20-%20Dhenifer%20Moura%20452947.xlsx) será necessário fazer o download da mesma.
+
+
